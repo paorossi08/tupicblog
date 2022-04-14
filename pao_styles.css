@@ -1,0 +1,38 @@
+* {
+    margin:0px;
+    padding:10px;
+    text-decoration: none;
+    font-family: 'Vibes', cursive;
+}
+
+
+.sector{
+  border: 1px solid black;
+}
+
+.header{
+  border:1px solid red;
+  display:grid;
+  grid-template-columns: 60% 40%;
+
+}
+
+
+
+
+
+.links ul{
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type:none;
+  /* texto */
+  font-size: 2rem;
+}
+
+
+
+.logo-pao{
+  background: black;
+}
